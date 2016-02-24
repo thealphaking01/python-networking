@@ -1,4 +1,4 @@
-#implementing server - udp after reading chapter2
+#implementing server - udp after reading chapter2 - update
 
 import sys,socket
 
